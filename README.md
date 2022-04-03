@@ -6,11 +6,11 @@
 
 -> Este projeto é um módulo das classes React do B7Web. Neste projeto eu me concentro em praticar minha organização de pastas e o uso dos princípios do React.
 
-[x] Assets -> Pasta responsável por conter as imagens e ícones utilizados nos projetos.
-[x] Components -> Pasta contendo os componentes do projeto.
-[x] Helpers -> Contém minhas funções customizadas que são usadas na home.
-[x] Pages -> Região que contém as páginas do projeto.
-[x] Styles -> Região que contém todos os estilos do projeto.
+[x] Assets -> Pasta responsável por conter as imagens e ícones utilizados nos projetos. <br/>
+[x] Components -> Pasta contendo os componentes do projeto.<br/>
+[x] Helpers -> Contém minhas funções customizadas que são usadas na home.<br/>
+[x] Pages -> Região que contém as páginas do projeto.<br/>
+[x] Styles -> Região que contém todos os estilos do projeto.<br/>
 
 ![img](./README/F_desk.png)
 
